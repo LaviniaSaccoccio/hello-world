@@ -1,5 +1,4 @@
 # hello-world
-A misc repository
 
 
 Passionate. Reliable. Goal Oriented.
